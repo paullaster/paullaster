@@ -1,4 +1,4 @@
-## Hi there 👋 Visitor number  ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+## Hi there 👋 Visitor number  ![Visitor Count](https://profile-counter.glitch.me/paullaster/count.svg)
 
 <!--
 **paullaster/paullaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - ⚒️ Currently a Developer at Sama Kenya
 - 📫 Reach me on twitter at @PaullasterOkoth, and also email me at ispaokoth@gmail.com
 - ⚡ Fun fact: I love feeling good
-
+ 
+ - ![Paullaster's github stats](https://github-readme-stats.vercel.app/api?username=paullaster&show_icons=true&theme=radical)
+ 
+ - [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paullaster&layout=compact)](https://github.com/paullaster/github-readme-stats)
