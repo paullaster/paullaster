@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on  Web Apps around Internet banking, mobile banking, tranport sector and a lot more interesting web applications
 - 💬 Ask me about Nodejs, MERN Stack and Web Apps
 - ⚒️ Currently working on a start-up idea, @BrainSpore LLC
-- 📫 Reach me on twitter at https://twitter.com/PaullasterOkoth. You may also email me at https://mailto="ispaokoth@gmail.com"
+- 📫 <a href ="https://twitter.com/PaullasterOkoth" target="_blank">Interact with of twitter</a>
+- 📫 <a href="mailto:ispaokoth@gmail.com">Click to email me</a>
 - ⚡ Fun fact: I believe in doing good to humanity.
  
  - ![Paullaster's github stats](https://github-readme-stats.vercel.app/api?username=paullaster&show_icons=true&theme=radical)
