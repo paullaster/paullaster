@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 <a href ="https://twitter.com/PaullasterOkoth" target="_blank">Interact with on twitter</a>
 - 📫 <a href="mailto:ispaokoth@gmail.com">Click to email me</a>
 - ⚡ Fun fact: I believe in doing good to humanity.
- 
+- [![trophy](https://github-profile-trophy.vercel.app/?username=paullaster&theme=onedark)](https://github.com/paullaster/github-profile-trophy)
  - ![Paullaster's github stats](https://github-readme-stats.vercel.app/api?username=paullaster&show_icons=true&theme=radical)
  
  - [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paullaster&layout=compact)](https://github.com/paullaster/github-readme-stats)
