@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 Open source contributor, Creator & tech leader
 - 💬 Ask me about Nodejs, MERN, NEXTJS & ReactJS, NUXTJS & Vuejs, TypeScript.
 - ⚒️ A startupper
-- 📫 <a href ="[https://x.com/_paullaster]" target="_blank">Interact with on twitter</a>
+- 📫 <a href ="https://x.com/_paullaster" target="_blank">Interact with on twitter</a>
 - 📫 <a href="mailto:ispaokoth@gmail.com">Click to email me</a>
 - ⚡ Fun fact: Deep in it!.
 - [![trophy](https://github-profile-trophy.vercel.app/?username=paullaster&theme=onedark)](https://github.com/paullaster/github-profile-trophy)
