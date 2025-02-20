@@ -5,15 +5,14 @@
 
 Here are some ideas to get you started:
 -->
-- 😃 Mr. Okoth
-- 🔭 I’m currently working on an ewallet service application and a youth social application
-- 🌱 I’m currently learning Cloud computing and TypeScript
-- 👯 I’m looking to collaborate on  Web Apps around Internet banking, mobile banking, tranport sector and a lot more interesting web applications
-- 💬 Ask me about Nodejs, MERN Stack and Web Apps
-- ⚒️ Currently working on a start-up idea, @BrainSpore LLC
-- 📫 <a href ="https://twitter.com/PaullasterOkoth" target="_blank">Interact with on twitter</a>
+- Mr. Okoth 💻
+- 🔭 Create Software Developer and robust systems architect
+- 👯 Open source contributor, Creator & tech leader
+- 💬 Ask me about Nodejs, MERN, NEXTJS & ReactJS, NUXTJS & Vuejs, TypeScript.
+- ⚒️ A startupper
+- 📫 <a href ="[https://x.com/_paullaster]" target="_blank">Interact with on twitter</a>
 - 📫 <a href="mailto:ispaokoth@gmail.com">Click to email me</a>
-- ⚡ Fun fact: I believe in doing good to humanity.
+- ⚡ Fun fact: Deep in it!.
 - [![trophy](https://github-profile-trophy.vercel.app/?username=paullaster&theme=onedark)](https://github.com/paullaster/github-profile-trophy)
  - ![Paullaster's github stats](https://github-readme-stats.vercel.app/api?username=paullaster&show_icons=true&theme=radical)
  
