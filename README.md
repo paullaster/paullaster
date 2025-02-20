@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - Mr. Okoth 💻
-- 🔭 Create Software Developer and robust systems architect
+- 🔭 Software Engineer and robust systems architect
 - 👯 Open source contributor, Creator & tech leader
 - 💬 Ask me about Nodejs, MERN, NEXTJS & ReactJS, NUXTJS & Vuejs, TypeScript.
 - ⚒️ A startupper
