@@ -5,7 +5,7 @@
 🔧 **Current Tech Stack:**  
 - TypeScript | React | Next.js  
 - Node.js | Express | MongoDB  
-- Stripe | Flutterwave | Pesaflow  
+- Stripe | Flutterwave | Pesaflow  |M-PESA | Jenga EQUITY BANK APIs
 
 🚀 **What I'm Building:**  
 - Payment gateways for African markets  
