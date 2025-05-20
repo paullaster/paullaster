@@ -20,13 +20,12 @@
 
 *"I turn coffee into clean code and complex problems into simple solutions."*
 
-# [Project Name]  
-*[One-liner: e.g., "High-performance payment interface for African markets"]*
+# PISCES 
+High-performance payment interface for African markets
 
 ## 🎯 **Why It Matters**  
-- Solves [specific problem]  
-- Used by [X users/companies]  
-- Unique feature: [e.g., "Handles 500+ TPS"]
+- Used by NOELS DELRIES 
+- Handles 500+ TPS
 
 ## 🛠️ **Tech Stack**  
 - Frontend: React, TypeScript  
@@ -35,13 +34,7 @@
 
 ## 🚀 **Performance Wins**  
 - Reduced load time from Xs → Ys  
-- Achieved [Lighthouse score]  
-- Cut API errors by Z%  
-
-## 📸 **Screenshot**  
-![App Screenshot](/screenshot.png)  
-
-*"This project taught me [key lesson]."*  
+- Achieved [Lighthouse score]   
 - [![trophy](https://github-profile-trophy.vercel.app/?username=paullaster&theme=onedark)](https://github.com/paullaster/github-profile-trophy)
  - ![Paullaster's github stats](https://github-readme-stats.vercel.app/api?username=paullaster&show_icons=true&theme=radical)
  
