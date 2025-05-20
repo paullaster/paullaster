@@ -24,7 +24,7 @@
 High-performance payment interface for African markets
 
 ## 🎯 **Why It Matters**  
-- Used by NOELS DELRIES 
+- Used by NOELS DELIVARIES 
 - Handles 500+ TPS
 
 ## 🛠️ **Tech Stack**  
