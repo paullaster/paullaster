@@ -31,11 +31,7 @@ High-performance payment interface for African markets
 - Frontend: React, TypeScript  
 - Backend: Node.js, MongoDB  
 - Key Libraries: Stripe SDK, Socket.io  
-
-## 🚀 **Performance Wins**  
-- Reduced load time from Xs → Ys  
-- Achieved [Lighthouse score]   
-- [![trophy](https://github-profile-trophy.vercel.app/?username=paullaster&theme=onedark)](https://github.com/paullaster/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=paullaster&theme=onedark)](https://github.com/paullaster/github-profile-trophy)
  - ![Paullaster's github stats](https://github-readme-stats.vercel.app/api?username=paullaster&show_icons=true&theme=radical)
  
  - [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paullaster&layout=compact)](https://github.com/paullaster/github-readme-stats)
