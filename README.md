@@ -1,18 +1,47 @@
-## Hi there 👋 Visitor number  ![Visitor Count](https://profile-counter.glitch.me/paullaster/count.svg)
+# Hi, I'm Paullaster 👋
 
-<!--
-**paullaster/paullaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Front-End Engineer** specializing in payments and high-performance interfaces  
 
-Here are some ideas to get you started:
--->
-- Mr. Okoth 💻
-- 🔭 Software Engineer and robust systems architect
-- 👯 Open source contributor, Creator & tech leader
-- 💬 Ask me about Nodejs, MERN, NEXTJS & ReactJS, NUXTJS & Vuejs, TypeScript.
-- ⚒️ A startupper
-- 📫 <a href ="https://x.com/_paullaster" target="_blank">Interact with on twitter</a>
-- 📫 <a href="mailto:ispaokoth@gmail.com">Click to email me</a>
-- ⚡ Fun fact: Deep in it!.
+🔧 **Current Tech Stack:**  
+- TypeScript | React | Next.js  
+- Node.js | Express | MongoDB  
+- Stripe | Flutterwave | Pesaflow  
+
+🚀 **What I'm Building:**  
+- Payment gateways for African markets  
+- Dashboard tools that handle 10K+ data points smoothly  
+
+📈 **Recent Wins:**  
+- Boosted checkout speed by 3x at Kinetics  
+- Cut transaction failures by 30% with smarter error handling  
+
+📫 **Let's Connect:**  
+[Email](mailto:ispaokoth@gmail.com) | [LinkedIn](#) | [Portfolio](#)  
+
+*"I turn coffee into clean code and complex problems into simple solutions."*
+
+# [Project Name]  
+*[One-liner: e.g., "High-performance payment interface for African markets"]*
+
+## 🎯 **Why It Matters**  
+- Solves [specific problem]  
+- Used by [X users/companies]  
+- Unique feature: [e.g., "Handles 500+ TPS"]
+
+## 🛠️ **Tech Stack**  
+- Frontend: React, TypeScript  
+- Backend: Node.js, MongoDB  
+- Key Libraries: Stripe SDK, Socket.io  
+
+## 🚀 **Performance Wins**  
+- Reduced load time from Xs → Ys  
+- Achieved [Lighthouse score]  
+- Cut API errors by Z%  
+
+## 📸 **Screenshot**  
+![App Screenshot](/screenshot.png)  
+
+*"This project taught me [key lesson]."*  
 - [![trophy](https://github-profile-trophy.vercel.app/?username=paullaster&theme=onedark)](https://github.com/paullaster/github-profile-trophy)
  - ![Paullaster's github stats](https://github-readme-stats.vercel.app/api?username=paullaster&show_icons=true&theme=radical)
  
