@@ -1,6 +1,6 @@
 # Hi, I'm Paullaster 👋
 
-**SoftwareEngineer** building payments and high-performance interfaces  
+**Software Engineer** building payments and high-performance interfaces  
 
 🔧 **Current Tech Stack:**  
 - TypeScript | React | Next.js  
